@@ -1,6 +1,6 @@
 # 📒 **Uxio — App de Notas en Python + Flet (Versión Base)**
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 ---
