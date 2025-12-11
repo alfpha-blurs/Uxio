@@ -1,5 +1,7 @@
 # 📒 **Uxio — App de Notas en Python + Flet (Versión Base)**
 
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:packageName)
+
 
 
 
