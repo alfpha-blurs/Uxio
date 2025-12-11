@@ -1,4 +1,4 @@
-# 📒 **Alpha — App de Notas en Python + Flet (Versión Base)**
+# 📒 **Uxio — App de Notas en Python + Flet (Versión Base)**
 
 
 
@@ -7,9 +7,9 @@
 
 ---
 
-## 🧩 **¿Qué es Alpha?**
+## 🧩 **¿Qué es Uxio?**
 
-**Alpha** es el **núcleo oficial** de una aplicación de notas hecha en **Python + Flet**.
+**Uxio** es el **núcleo oficial** de una aplicación de notas hecha en **Python + Flet**.
 
 Está pensada para:
 
