@@ -29,19 +29,13 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 ### 🏠 Pantalla Principal
 
 ```
-![Home](assets/screenshot_home.png)
+![Home](images/home.png)
 ```
 
 ### 📝 Crear / Editar Nota
 
 ```
-![Editor](assets/screenshot_editor.png)
-```
-
-### ⚙️ Ajustes (Tema, tamaño, radio, preview)
-
-```
-![Settings](assets/screenshot_settings.png)
+![Editor](images/note.png)
 ```
 
 ---
@@ -60,11 +54,16 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 
 Tu app incluye **5 temas** listos para usar:
 
-* Pro
-* Tec
-* Pastel
-* Elegante
-* Golden
+#### Pro
+![Editor](images/pro.png)
+#### Tec
+![Editor](images/tec.png)
+#### Pastel
+![Editor](images/pastel.png)
+#### Elegante
+![Editor](images/elegant.png)
+#### Pink
+![Editor](images/pink.png)
 
 Cada uno cambia colores del fondo, acentos, texto y gradientes.
 
