@@ -33,9 +33,18 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 ### 📝 Crear / Editar Nota
 <img src="images/note.jpg" height=600 width="300" />
 
-
 ---
 
+## 📱 **APK y versión compilada**
+
+Publicaré la versión APK lista para instalar directamente en Android muy pronto.
+
+El enlace aparecerá aquí mismo:
+
+📦 [Descargar APK](https://github.com/frensby-blurs/Uxio/releases/download/1.0.0/app-release.apk)
+
+
+---
 ## 🎨 **Características Principales**
 
 ### ✔️ Gestión completa de notas
@@ -145,17 +154,6 @@ python main.py
 
 * `settings.json` (se crea solo)
 * `contenedores.json` (también se crea solo)
-
----
-
-## 📱 **APK y versión compilada**
-
-Publicaré la versión APK lista para instalar directamente en Android muy pronto.
-
-El enlace aparecerá aquí mismo:
-
-📦 [Descargar APK](https://github.com/frensby-blurs/Uxio/releases/download/1.0.0/app-release.apk)
-
 
 ---
 
