@@ -31,10 +31,8 @@ Más adelante existirá una **versión Pro / Código cerrado**, con muchas más 
 
 
 ### 📝 Crear / Editar Nota
-
-```
 <img src="images/note.jpg" height=600 width="300" />
-```
+
 
 ---
 
